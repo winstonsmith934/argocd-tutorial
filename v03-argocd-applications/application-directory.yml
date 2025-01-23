@@ -12,6 +12,6 @@ spec:
           #      exclude: 'service.yml'
           #      include: '{serviceaccount.yml,service.yml}'
           #      recurse: true
-    path: v03-argocd-applications/directoryOfmanifests
-    repoURL: https://github.com/devopshobbies/argocd-tutorial.git
+    path: v03-argocd-applications/helm/nginx
+    repoURL: https://github.com/winstonsmith934/argocd-tutorial.git
     targetRevision: main
